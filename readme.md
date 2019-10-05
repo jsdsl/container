@@ -1,18 +1,31 @@
-# JavaScript Module Template
-This repository serves as an easy-start template for JavaScript/TypeScript NPM packages. 
+# JSDSL - IContainer
+An interface representing the general form of a data structure that contains elements.
 
-Simply clone the repository into a directory:
+### [Find @jsdsl/i-container on NPM.](https://www.npmjs.com/package/@jsdsl/i-container)
 
-```bash
-$ git clone git@github.com:T99/js-module-template.git my-new-project
+## Table of Contents
+
+ - [Installation](#installation)
+ - [Basic Usage](#basic-usage)
+ - [Documentation](#documentation)
+ - [License](#license)
+
+## Installation
+Install from NPM with
+```
+$ npm install --save @jsdsl/i-container
 ```
 
-And then run the init script:
+## Basic Usage
+The interface included in this package serves as a standardizing basis for a handful of other packages that implement container and container-like data structures, and is therefore not intended to be used alone.
 
-```bash
-$ ./init.sh
-```
+Please refer to the documentation of the package implementing this package's abstract class for (hopefully) more useful information.
 
-The init script will interactively prompt you for package information and then automatically build the package, correct and fill-in package information, and install the specified NPM packages already included in the provided `package.json`.
+## Documentation
 
-And that's it! Your project is ready to go.
+See the [wiki](https://github.com/jsdsl/i-container/wiki) for full documentation.
+
+## License
+@jsdsl/i-container is made available under the GNU General Public License v3.
+
+Copyright (C) 2019 Trevor Sears

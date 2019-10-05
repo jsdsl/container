@@ -2,6 +2,9 @@
 	"name": "@jsdsl/i-container",
 	"version": "1.0.0",
 	"description": "An interface representing the general form of a data structure that contains elements.",
+	"publishConfig": {
+		"access": "public"
+	},
 	"main": "js/main",
 	"types": ".d.ts/main",
 	"scripts": {

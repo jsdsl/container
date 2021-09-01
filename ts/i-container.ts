@@ -1,7 +1,7 @@
 /*
- *	Created by Trevor Sears <trevorsears.main@gmail.com>.
+ *	Created by Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/).
  *	3:49 PM -- October 04th, 2019.
- *	Project: @jsdsl/i-container
+ *	Project: @jsdsl/container
  */
 
 import { IIterator } from "iter-over";
@@ -9,7 +9,7 @@ import { IIterator } from "iter-over";
 /**
  * An interface representing the general form of a data structure that contains elements.
  * 
- * @author Trevor Sears <trevorsears.main@gmail.com>
+ * @author Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/)
  * @version v0.1.0
  * @since v0.1.0
  */

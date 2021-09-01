@@ -1,7 +1,7 @@
 # JSDSL - IContainer
 An interface representing the general form of a data structure that contains elements.
 
-### [Find @jsdsl/i-container on NPM.](https://www.npmjs.com/package/@jsdsl/i-container)
+### [Find @jsdsl/container on NPM.](https://www.npmjs.com/package/@jsdsl/container)
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ An interface representing the general form of a data structure that contains ele
 ## Installation
 Install from NPM with
 ```
-$ npm install --save @jsdsl/i-container
+$ npm install --save @jsdsl/container
 ```
 
 ## Basic Usage
@@ -23,9 +23,9 @@ Please refer to the documentation of the package implementing this package's abs
 
 ## Documentation
 
-See the [wiki](https://github.com/jsdsl/i-container/wiki) for full documentation.
+See the [wiki](https://github.com/jsdsl/container/wiki) for full documentation.
 
 ## License
-@jsdsl/i-container is made available under the GNU General Public License v3.
+@jsdsl/container is made available under the GNU General Public License v3.
 
-Copyright (C) 2019 Trevor Sears
+Copyright (C) 2021 Trevor Sears

@@ -1,7 +1,7 @@
 {
-	"name": "@jsdsl/i-container",
+	"name": "@jsdsl/container",
 	"version": "1.0.0",
-	"description": "An interface representing the general form of a data structure that contains elements.",
+	"description": "An interface representing the general forms of data structures that contain elements.",
 	"publishConfig": {
 		"access": "public"
 	},
@@ -13,21 +13,23 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jsdsl/i-container.git"
+		"url": "git+https://github.com/jsdsl/container.git"
 	},
 	"keywords": [
-		"data-structure",
+		"typescript",
 		"adt",
-		"collections",
+		"data-structure",
+		"container",
 		"containers",
-		"interface"
+		"collection",
+		"collections"
 	],
-	"author": "Trevor Sears <trevorsears.main@gmail.com> (http://trevorsears.io/)",
+	"author": "Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/jsdsl/i-container/issues"
+		"url": "https://github.com/jsdsl/container/issues"
 	},
-	"homepage": "https://github.com/jsdsl/i-container#readme",
+	"homepage": "https://github.com/jsdsl/container#readme",
 	"devDependencies": {
 		"typescript": "latest",
 		"tslint": "latest",
